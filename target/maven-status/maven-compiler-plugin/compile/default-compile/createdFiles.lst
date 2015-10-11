@@ -1,0 +1,13 @@
+io/github/llevague/jwt/web/conf/AppContext.class
+io/github/llevague/jwt/web/conf/WebApp$1.class
+io/github/llevague/jwt/web/api/v1/InfoEndpoint.class
+io/github/llevague/jwt/services/security/TokenHandler.class
+io/github/llevague/jwt/web/conf/jersey/JerseyConfig.class
+io/github/llevague/jwt/services/security/filters/StatelessAuthenticationFilter.class
+io/github/llevague/jwt/services/security/UserService$1.class
+io/github/llevague/jwt/services/security/UserService.class
+io/github/llevague/jwt/services/conf/SecurityConfig.class
+io/github/llevague/jwt/services/security/beans/UserAuthentication.class
+io/github/llevague/jwt/web/conf/jersey/JacksonObjectMapperConfig.class
+io/github/llevague/jwt/services/security/TokenAuthenticationService.class
+io/github/llevague/jwt/web/conf/WebApp.class

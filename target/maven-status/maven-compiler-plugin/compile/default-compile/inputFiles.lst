@@ -1,0 +1,11 @@
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/web/conf/AppContext.java
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/services/security/TokenAuthenticationService.java
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/web/api/v1/InfoEndpoint.java
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/services/security/filters/StatelessAuthenticationFilter.java
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/services/security/UserService.java
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/web/conf/WebApp.java
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/services/security/TokenHandler.java
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/web/conf/jersey/JacksonObjectMapperConfig.java
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/services/security/beans/UserAuthentication.java
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/web/conf/jersey/JerseyConfig.java
+/home/llevague/IdeaProjects/jwt-security/src/main/java/io/github/llevague/jwt/services/conf/SecurityConfig.java
